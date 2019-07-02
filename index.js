@@ -1,0 +1,1 @@
+console.log("Aman dikkat bu benim uygulamam.");
